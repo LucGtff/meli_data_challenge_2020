@@ -1,8 +1,8 @@
 # meli_data_challenge_2020
 
-Here are the main files used for my participation to the [Meli data challenge 2020](https://ml-challenge.mercadolibre.com/). [I ranked 31] (https://ml-challenge.mercadolibre.com/final_results), out of more than 100 (180 in total, but i am not sure the last ones did participate seriously).
+Here are the main files used for my participation to the [Meli data challenge 2020](https://ml-challenge.mercadolibre.com/). 
 
-This is my first participation to such challenge. I learned a lot and I really enjoyed doing it. I thought I could get a better resultat, but I think it is not that bad for a starter. 
+This is my first participation to a data challenge.  Here, the goal was to "Build a Machine Learning model to predict next purchase based on the user’s navigation history." It was a nice experience in a field I had no experience (e commerce) and I enjoyed it. [I ranked 31](https://ml-challenge.mercadolibre.com/final_results)  out of more than 120, this motivated me to participate to other challenges. 
 
 # Problem analysis and strategie put in place
 
