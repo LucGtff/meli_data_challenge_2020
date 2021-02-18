@@ -34,12 +34,12 @@ This is my first participation to a data challenge.  Here, the goal was to "Buil
 
 •	When no “view”, or very few “views” with respect to the “search”, looked for the domain_id with words more similar to the “search”, in the same idea as in (*). But it looked that this method was not very useful compared to taking profit of the analysis of “view” when existing. 
 
-*I suppose if it was possible to predict the domain_id by mixing up in a more consistent way the “view” and the “search” 
+*I suppose if it was possible to predict the domain_id by mixing up in a more consistent way the “view” and the “search”*
 
-I suppose I did not extract the best information of the dataset with my ranks 
+*I suppose I did not extract the best information of the dataset with my ranks *
 
-Using more advanced ML algo should be probably useful, but in the way I have designed my strategy, I don’t think so. 
+*Using more advanced ML algo should be probably useful, but in the way I have designed my strategy, I don’t think so.* 
 
-Maybe some more detailed analyses, domain_id by domain_id could be relevant. I did not enter into this. 
+*Maybe some more detailed analyses, domain_id by domain_id could be relevant. I did not enter into this. *
 
-In the end, I am happy with my NCDG 0.25, but I guess this value is mainly based on something very simple, proposing the items more frequent, and seen the latest in the history, and complete the list with items of their domains. All the things more advanced have probably an impact, nothing very significant I believe.*
+*In the end, I am happy with my NCDG 0.25, but I guess this value is mainly based on something very simple, proposing the items more frequent, and seen the latest in the history, and complete the list with items of their domains. All the things more advanced have probably an impact, nothing very significant I believe.*
